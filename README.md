@@ -8,18 +8,28 @@ Our project focuses on the death rate by state in the United States. We used dat
 
 Questions we tried to answer:
 •	Which state has reported the highest number of deaths in the last 3 years. 
+
 •	Which are the top 10 states with highest number of deaths?
+
 •	What are the main causes of death in US?
+
 •	In what season do most deaths occur by natural causes and what is the correlation between the seasons where the most deaths occur by all causes and natural causes?
+
 •	In what season is the death rate highest due to Cancer & Septicemia?
+
 •	In what season is the death rate highest due to Influenza & Respiratory Diseases?
+
 •	Does COVID-19 have any impact on the death totals and rates for the other mortality measures?
+
 •	In what season is the death rate highest due to COVID 19 and heart disease?
 
 Where we are getting data from
 CDC - National Center for Health Statistics. Weekly Provisional Counts of Deaths by State and Select Causes, 2020-2022. 
 Libraries /modules used 
 Used different libraries like Pandas, Matplotlib, seaborn and we are using choropleth (from plotly.express) for plotting the maps. 
+
+[Project 1 .docx](https://github.com/MaksAndr/Project-1--Group-4/files/10747517/Project.1.docx)
+
 Data cleaning and preparation
 •	Imported data files and read the data using pd.read_csv(death_data_path)
 •	Obtained a list of columns for death_data and population_data then reduced the number of columns to only show 2020-2023
