@@ -31,20 +31,35 @@ Used different libraries like Pandas, Matplotlib, seaborn and we are using choro
 [Project 1 .docx](https://github.com/MaksAndr/Project-1--Group-4/files/10747517/Project.1.docx)
 
 Data cleaning and preparation
+
 •	Imported data files and read the data using pd.read_csv(death_data_path)
+
 •	Obtained a list of columns for death_data and population_data then reduced the number of columns to only show 2020-2023
+
 •	Filtered the data to only show the diseases were wanted to further analyze
+
 •	Changed the data type from object to datetime and added month, year and month-year columns.
+
 •	Extracted month by the month names.
+
 •	Created a season list by month.
+
 •	Renamed the columns so it’s easier to read & understand. 
+
 •	Combined Cerebrovascular diseases and heart diseases into one column named “all heart diseases”.
+
 •	Combined columns for chronic lower respiratory diseases and other diseases in the respiratory system into one column named “respiratory diseases”.
-•	Reordered columns for visibility and so data is able to be understood easily. 
+
+•	Reordered columns for visibility and so data is able to be understood easily.
+
 •	Identified incomplete rows and filled the NAs with 0 and replaced the NaN values with 0
+
 •	Verified all row counts so they are equal to 8,164
+
 •	Converted measured to an integer data type
+
 •	Organized the data so it shows the deaths by year and month
+
 •	Created a population by year and state data frames
 
 
