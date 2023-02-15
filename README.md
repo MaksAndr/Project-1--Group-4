@@ -85,7 +85,8 @@ These charts show that winter was the season for the highest death rate due to S
  
 This was interesting because you can see the effect COVID 19 had on the mortality rates. There is a clear uptick in spring 2020 of respiratory and influenza and pneumonia related deaths. Spring 2020 is also when COVID 19 will start to truly affect the country and further affect so many people’s lives. 
 6.	Does COVID-19 have any impact on the death totals and rates for the other mortality measures?
- ![image](https://user-images.githubusercontent.com/119899172/219158728-f30662ee-0b9f-457a-9713-64155be92829.png)
+ ![image](https://user-images.githubusercontent.com/119899172/219205871-cb2b62aa-4271-4306-87d2-cf92485a6fa7.png)
+
 
 This graph shows the total number of deaths along with the months and year where people were affected. You can clearly see how COVID 19 has such a high number compared to the other diseases. Especially during 2020-2022 COVID-19 was at its peak. The coronavirus has affected and killed more people than any other illness in 2020. 
 7.	In what season is the death rate highest due to COVID-19 and heart disease?
