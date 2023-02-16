@@ -1,5 +1,8 @@
 Mortality rate by state from most common diseases in 2020-2022
-
+Made By Umeadi Dungor, Bethelhem Arefayne , Joshua Ruiz , Maksym Andreiko
+ 
+ 
+ 
 Introduction
 
 Our project focuses on the death rate by state in the United States. We used data from the CDC to further break down the mortality rate from diseases such as COVID-19, Heart Disease, Alzheimer’s, Cancer, Influenza and more. This project is important because it highlights the states that are most affected by these illnesses and the seasons of the year that receive the largest number of deaths. We break the data down and comb through each year to fully analyze the data and compare the mortality rate of different diseases throughout the years 2020-2022. 
