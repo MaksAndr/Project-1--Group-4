@@ -1,4 +1,6 @@
 Mortality rate by state from most common diseases in 2020-2022
+
+
 Made By Umeadi Dungor, Bethelhem Arefayne , Joshua Ruiz , Maksym Andreiko
  
  
